@@ -1,0 +1,26 @@
+{
+  "name": "zendesk-analysis-tools",
+  "version": "1.0.0",
+  "description": "Collection of tools for analyzing Zendesk tickets, comments, and side conversations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "zendesk",
+    "analysis",
+    "tickets",
+    "side-conversations",
+    "slack"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

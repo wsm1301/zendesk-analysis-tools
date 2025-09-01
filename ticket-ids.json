@@ -1,0 +1,13 @@
+{
+  "ticketIds": [
+    // Add your Zendesk ticket IDs here
+    // Example: 2512915, 2512999, 2513129, etc.
+    // Remove the comments and add actual ticket IDs like this:
+    // 2512915,
+    // 2512999,
+    // 2513129
+  ],
+  "description": "List of Zendesk ticket IDs to analyze",
+  "lastUpdated": "2024-09-01",
+  "totalTickets": 0
+}
