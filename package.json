@@ -4,7 +4,8 @@
   "description": "Collection of tools for analyzing Zendesk tickets, comments, and side conversations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests specified\" && exit 0",
+    "ticket-ids": "node scripts/update-ticket-ids-from-sheets.js"
   },
   "keywords": [
     "zendesk",
